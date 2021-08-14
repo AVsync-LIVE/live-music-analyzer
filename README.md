@@ -1,5 +1,7 @@
 # live-music-analyzer
 
+![Visualization of the codebase](./diagram.svg)
+
 Fork of [Tablature-Generator-Converter](https://github.com/TwinkieGorilla/Tablature-Generator-Converter) (EEC 493 Senior Design - Cleveland State University 2020)
 
 ## Motivation
